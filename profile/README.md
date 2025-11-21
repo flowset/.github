@@ -10,5 +10,5 @@
 - **Flowset Workspace** (scheduled on Q2 2026). A portal for a seamless collaboration of developers and analysts. A place where prototypes become full-featured solutions with minimal effort.
 
 ### Useful links
-- **[Getting started](https://flowset.io/getting-started)**.
+- **[Getting started](https://docs.flowset.io/flowset/quick-start.html)**.
 - **[Slack](https://flowset-io.slack.com)**. Discussions and support.
