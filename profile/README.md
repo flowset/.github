@@ -1,6 +1,4 @@
 <div align="center">
-
-  # 🚀 Flowset 
  
   ![preview.png](../img/preview.png)
 
