@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="img/preview.png" alt="Flowset Platform" width="100%">
 
   # 🚀 Flowset
+
+  ---
+ 
+  ![preview.png](../img/preview.png)
 
   ### Open Source Business Process Automation Platform for Passionate Software Engineers
 
