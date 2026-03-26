@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/img/preview.png" alt="Flowset Platform" width="100%">
+  <img src="img/preview.png" alt="Flowset Platform" width="100%">
 
   # 🚀 Flowset
 
