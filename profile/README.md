@@ -25,7 +25,7 @@ Web application for maintaining and supporting process applications in a special
 
 **[Try Demo →](https://demo-control.flowset.io/login)**
 
-### 💻 [Flowset Studio](https://plugins.jetbrains.com/plugin/25655-openbpm/)
+### 💻 [Flowset Studio](https://github.com/flowset/flowset-studio)
 Plugin for IntelliJ IDEA to develop enterprise-grade process applications with powerful development tools and workflow design capabilities.
 
 **[Install Plugin →](https://plugins.jetbrains.com/plugin/25655-openbpm/)**
