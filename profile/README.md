@@ -20,17 +20,17 @@ Flowset is a modern, developer-friendly platform that empowers software engineer
 
 ## 🎯 Platform Components
 
-### 🎛️ [Flowset Control](https://github.com/flowset/flowset-control-community)
+### [Flowset Control](https://github.com/flowset/flowset-control-community)
 Web application for maintaining and supporting process applications in a specialized admin environment without workflow interruptions.
 
 **[Try Demo →](https://demo-control.flowset.io/login)**
 
-### 💻 [Flowset Studio](https://github.com/flowset/flowset-studio)
+### [Flowset Studio](https://github.com/flowset/flowset-studio)
 Plugin for IntelliJ IDEA to develop enterprise-grade process applications with powerful development tools and workflow design capabilities.
 
 **[Install Plugin →](https://plugins.jetbrains.com/plugin/25655-openbpm/)**
 
-### ✅ [Flowset Tasklist](https://github.com/flowset/flowset-tasklist-react-community)
+### [Flowset Tasklist](https://github.com/flowset/flowset-tasklist-react-community)
 Intuitive web application enabling end-users to work efficiently with tasks and manage their workflows.
 
 **[Explore Repository →](https://github.com/flowset/flowset-tasklist-react-community)**
@@ -39,24 +39,24 @@ Intuitive web application enabling end-users to work efficiently with tasks and 
 
 Ready to get started? Follow our comprehensive guide:
 
-**[📚 Getting Started Guide](https://docs.flowset.io/flowset/quick-start.html)**
+**[Getting Started Guide](https://docs.flowset.io/flowset/quick-start.html)**
 
 ## 📖 Resources
 
-- **[📘 Documentation](https://docs.flowset.io/flowset/intro.html)** - Complete platform documentation
-- **[🌐 Website](https://flowset.io/)** - Learn more about Flowset
-- **[🧪 Demo Environment](https://demo-control.flowset.io/login)** - Try Flowset Control live
-- **[💬 Slack Community](https://flowset-io.slack.com/)** - Discussions, support, and updates
-- **[🐙 GitHub Organization](https://github.com/flowset)** - Explore all repositories
+- **[Documentation](https://docs.flowset.io/flowset/intro.html)** - Complete platform documentation
+- **[Website](https://flowset.io/)** - Learn more about Flowset
+- **[Demo Environment](https://demo-control.flowset.io/login)** - Try Flowset Control live
+- **[Slack Community](https://flowset-io.slack.com/)** - Discussions, support, and updates
+- **[GitHub Organization](https://github.com/flowset)** - Explore all repositories
 
 ## 🤝 Get Involved
 
 Join our growing community of developers building the future of business process automation!
 
+- **Star** our repositories to show your support
 - **Ask questions** and get support on [Slack](https://flowset-io.slack.com/)
 - **Contribute** to our open source projects on [GitHub](https://github.com/flowset)
 - **Share feedback** and feature requests
-- **Star** our repositories to show your support
 
 ---
 
