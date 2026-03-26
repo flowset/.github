@@ -45,16 +45,14 @@ Ready to get started? Follow our comprehensive guide:
 - **[Website](https://flowset.io/)** - Learn more about Flowset
 - **[Demo Environment](https://demo-control.flowset.io/login)** - Try Flowset Control live
 - **[Slack Community](https://flowset-io.slack.com/)** - Discussions, support, and updates
-- **[GitHub Organization](https://github.com/flowset)** - Explore all repositories
 
 ## 🤝 Get Involved
 
 Join our growing community of developers building the future of business process automation!
 
 - **Star** our repositories to show your support
-- **Ask questions** and get support on [Slack](https://flowset-io.slack.com/)
+- **Ask questions** and share feedback on [Slack](https://flowset-io.slack.com/)
 - **Contribute** to our open source projects on [GitHub](https://github.com/flowset)
-- **Share feedback** and feature requests
 
 ---
 
